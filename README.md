@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @A9EEl
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning web developments 
+- 👀 I’m interested in programming  
 - 💞️ I’m looking to collaborate on web developments
 - 📫 How to reach me 0501607157
 
